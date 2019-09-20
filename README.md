@@ -1,4 +1,5 @@
 # deepLearning
 
-Deeplearning code Execution /n
-implementing all the Deeplearning codes
+Deeplearning code Execution 
+
+Implementing all the Deeplearning codes
